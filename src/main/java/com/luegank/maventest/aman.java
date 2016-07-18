@@ -1,4 +1,4 @@
-package maventest;
+package com.luegank.maventest;
 
 public class aman{
 	private String who;

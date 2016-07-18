@@ -1,9 +1,11 @@
-package maventest;
+package com.luegank.maventest;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.luegank.maventest.Main;
 
 public class MainTest {
 	Main main;
