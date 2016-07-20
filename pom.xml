@@ -27,6 +27,5 @@
   </dependencies>
   <build>
     <finalName>maventest</finalName>
-    
   </build>
 </project>
