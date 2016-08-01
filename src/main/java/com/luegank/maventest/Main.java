@@ -10,6 +10,10 @@ public class Main {
 		ApplicationContext ac = new ClassPathXmlApplicationContext("applicationcontext.xml");
 		aman nm = ac.getBean("aman",aman.class);
 		nm.sayHi();
+		String a = "hello2"; 
+        String d = "hello";
+        String e = d + 2;
+        System.out.println(a.equals(e));
 	}
 
 	public int add(int a ,int b ){
